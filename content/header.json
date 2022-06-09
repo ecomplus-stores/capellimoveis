@@ -1,17 +1,12 @@
 {
   "marketing_stripe": {
-    "text": "As melhores marcas e melhores condições de pagamento em Autoclaves",
+    "text": "",
     "link": "",
-    "background": "#d2d2d2",
-    "color": "#363636"
+    "background": "#ffffff",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Nossos Prazos",
-        "link": "/pages/"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
