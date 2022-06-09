@@ -1,17 +1,19 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "As melhores marcas e melhores condições de pagamento em Autoclaves",
+    "link": "",
+    "background": "#16736b",
+    "color": "#6bc7c2"
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
+        "title": "Nossos Prazos",
+        "link": "/pages/"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Ligue e tire suas dúvidas (11) 4119-8466 | (11) 3294-7100",
+        "link": ""
       }
     ],
     "phone_wpp": true,
@@ -20,7 +22,7 @@
   "categories_list": {
     "featured": [],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "desktop_megamenu": false,
   "search_input": true
