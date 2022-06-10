@@ -2,5 +2,15 @@
   "title": "Trocas e devoluções",
   "meta_title": "Trocas e devoluções",
   "meta_description": "Trocas e devoluções",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "Todas as garantias são dadas pelos fabricantes, e variam de produto para produto. Elas serão informadas nas páginas de cada produto. Caso tenha alguma dúvida, entre em contato conosco.\n\nPara devoluções, os produtos deverão ser remetidos em suas embalagens originais e caso for constatado mal uso, o custo será por parte do comprador.\n\n**TROCAS:** Somente com prévia análise do atendimento.\n\n**DEVOLUÇÕES:**\n\nRespeitando o Artigo 49 do Código de Defesa do Consumidor, a  Capelli Moveis permite que os clientes exerçam o \"direito de arrependimento\", até 7 dias após o pedido/recebimento da mercadoria, com o devido ressarcimento de valores pagos. Porém, tal operação se dará mediante às seguintes condições:\n\nComunicação por escrito para o e-mail contato@capellimoveis.com.br, proveniente da conta de e-mail no qual o cliente se cadastrou em nosso sistema, onde ele informará os produtos que deseja devolver a nós, bem como informará a conta bancária, em seu nome, para devolução de valores (apenas para pedidos pagos por boleto ou depósito bancário). Quaisquer devoluções de produtos deverão acontecer com a nossa autorização por escrito.\n\nUma vez recebidos em nosso depósito os produtos devolvidos, verificaremos o estado dos mesmos, que deverão encontrar-se nas mesmas condições nas quais foram despachadas por nós (inclusive embalagem). Sendo detectada qualquer irregularidade e/ou sinal de uso, não aceitaremos a devolução e a mercadoria será novamente remetida ao cliente.\n\nCaso constatemos que os produtos devolvidos estão em perfeitas condições e sem sinal de uso, nosso financeiro terá 5 dias úteis para efetuar a restituição de valores, conforme estipulado abaixo:\n\nPagamentos por boleto ou depósito bancário: Será efetuado o depósito em conta bancária indicada pelo cliente na solicitação do cancelamento do pedido. Frisamos que esta conta deve estar em nome de quem efetuou o pedido. Informamos também que a i Capelli Moveis poderá efetuar tal depósito em cheque.\n\nPagamentos por cartão de crédito: Será solicitado junto a bandeira do cartão de crédito (por exemplo, Visa, MasterCard, etc.) o cancelamento da transação financeira. Uma vez solicitado este cancelamento, o banco emissor do cartão de crédito será o responsável por efetuar a restituição dos valores como crédito na fatura do cliente. Não temos qualquer interferência neste processo.\n\nA Capelli Moveis  poderá descontar fretes e taxas bancárias dos valores a serem devolvidos, dado que não temos atividade de lucro nestes.",
+  "sections": [
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
