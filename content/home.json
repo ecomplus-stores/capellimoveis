@@ -28,6 +28,18 @@
       "sort": "news"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/autoclave-vet.jpg",
+          "link": "https://capellimoveis.netlify.app/"
+        },
+        {
+          "img": "/img/uploads/autoclave-est.jpg"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     }
