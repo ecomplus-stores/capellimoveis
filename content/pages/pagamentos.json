@@ -2,5 +2,15 @@
   "title": "Formas de pagamento",
   "meta_title": "Formas de pagamento",
   "meta_description": "Formas de pagamento",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "Trabalhamos com diversas formas de pagamento.\n\nAssim que finalizar sua compra, você poderá escolher qual a forma que mais lhe agrada. Demais instruções serão passadas após a escolha da forma de pagamento.\n\nA Capelli Móveis oferece as seguintes formas de pagamento, com total segurança e privacidade dos seus dados:\n\nCartão de Crédito - Parcelado em até 12x\n\nBoleto Bancário - Pagamento à Vista (Pagável em qualquer banco, casas lotéricas e internet banking. O boleto para impressão será exibido na tela no final da compra.\n\nO pedido será colocado em produção após a confirmação do pagamento.",
+  "sections": [
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
