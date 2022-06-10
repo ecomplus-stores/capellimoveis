@@ -8,12 +8,12 @@
       "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/autoclave-classe-b-conselhos-para-escolher-na-clinica-dentaria.jpg",
+          "img": "/img/uploads/slide1.jpg",
           "link": "",
           "alt": "",
           "start": "2022-06-09T20:30:05.094Z",
           "end": "",
-          "mobile_img": ""
+          "mobile_img": "/img/uploads/slide1m.jpg"
         }
       ]
     },
