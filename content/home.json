@@ -18,6 +18,11 @@
       ]
     },
     {
+      "type": "page-title",
+      "title": "AUTOCLAVES - ESTERILIZAÇÃO DE MATERIAIS PARA SEU NEGÓCIO",
+      "description": "Confira modelos disponíveis"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
