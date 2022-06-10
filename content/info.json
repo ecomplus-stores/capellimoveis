@@ -1,11 +1,15 @@
 {
   "shipping": {
     "show": true,
-    "text": "Envio para Todo Brasil "
+    "text": "Entrega Garantida",
+    "title": "Envio para Todo Brasil",
+    "link": "https://capellimoveis.netlify.app/pages/entrega"
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 3x sem juros "
+    "text": "em até 12x ",
+    "title": "Parcele suas compras no cartão ",
+    "link": "https://capellimoveis.netlify.app/pages/pagamentos"
   },
   "exchange": {
     "show": false,
