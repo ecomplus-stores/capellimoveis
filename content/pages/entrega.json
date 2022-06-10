@@ -2,5 +2,15 @@
   "title": "Condições de entrega",
   "meta_title": "Condições de entrega",
   "meta_description": "Condições de entrega",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "Comprar em nossa loja é super fácil. \n\nSeu pedido será enviado de acordo com a forma escolhida na finalização de sua compra. \n\nO prazo de entrega será calculado de acordo com seu cep.\n\nNosso prazo de expedição tem em média de 05 a 25 dias úteis após confirmação do pagamento. \n\nApós envio de seu pedido, você será informado no email cadastrado, o código para rastrear sua encomenda através do site dos correios ou transportadora.\n\nFicou com alguma dúvida?  Fale conosco:  (11) 4119-8166. \n\nAtendimento telefônico funciona de segunda à sexta-feira, das 09 às 17h. \n\nO frete é calculado diretamente aqui na loja. Você consegue calcular o frete sem precisar se cadastrar, clique em calcular frete abaixo na página do produto para verificar condições e prazo.\n\nNosso prazo para EXPEDIÇÃO (não para entrega) de pedidos é de 5 até 25 dias ÚTEIS a contar da data de aprovação do pedido. \n\nFRETES:\n\nO frete é calculado automaticamente pelo próprio site e o valor é adicionado ao total do pedido e às parcelas (caso houverem). Para redução do custo do frete aos nossos clientes, alguns móveis poderão vir desmontados. Porém, estes podem ser montados com muita facilidade, até por pessoas não habituadas a fazê-lo. A montagem dos mesmos será de responsabilidade do cliente.\n\nTodas as mercadorias deverão ser conferidas no ato da entrega, antes da assinatura do comprovante do recebimento. É direito do cliente abrir caixa por caixa, sem danificá-las, com o auxílio de um estilete ou similar, para efetuar a conferência da mercadoria. Caso algum produto estiver avariado, o cliente deve recusar o mesmo e registrar o motivo da recusa no comprovante de recebimento. Uma vez assinado o comprovante do recebimento, declara-se ali que a mercadoria foi recebida em perfeito estado. Sendo assim, não aceitaremos reclamações posteriores.",
+  "sections": [
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
