@@ -2,5 +2,20 @@
   "title": "Capelli Autoclaves & Móveis Técnicos",
   "meta_title": "Contato",
   "meta_description": "Contato",
-  "body": "Capelli Autoclaves & Móveis Técnicos abre novo segmento de loja para facilitar suas compras de autoclaves e móveis técnicos para seu negócio, seja estética, clínicas veterinária, odontológica entre outras do ramo hospitalar.  \n\nCom a experiência da Capelli Móveis, que está no mercado há mais 11 anos.\n\nAqui na loja online você vai encontrar as melhores marcas, condições de pagamento e entrega. \n\nA qualidade, variedade e fidelidade são os critérios utilizados por nossa empresa e estamos sempre, buscando os melhores fornecedores no mercado interno e externo para oferecermos sempre novidades com um elevado padrão de qualidade, aliado a preços competitivos.\n\nNosso crescimento no mercado se deve a confiabilidade nas relações entre nossa empresa e seus clientes.\n\nEnd: Av Guilherme Giorgi, 1510 - Jardim Têxtil -Cep: 03422-001- São Paulo/SP - Tel:  (11) 4119-8466"
+  "body": "Capelli Autoclaves & Móveis Técnicos abre novo segmento de loja para facilitar suas compras de autoclaves e móveis técnicos para seu negócio, seja estética, clínicas veterinária, odontológica entre outras do ramo hospitalar.  \n\nCom a experiência da Capelli Móveis, que está no mercado há mais 11 anos.\n\nAqui na loja online você vai encontrar as melhores marcas, condições de pagamento e entrega. \n\nA qualidade, variedade e fidelidade são os critérios utilizados por nossa empresa e estamos sempre, buscando os melhores fornecedores no mercado interno e externo para oferecermos sempre novidades com um elevado padrão de qualidade, aliado a preços competitivos.\n\nNosso crescimento no mercado se deve a confiabilidade nas relações entre nossa empresa e seus clientes.\n\nEnd: Av Guilherme Giorgi, 1510 - Jardim Têxtil -Cep: 03422-001- São Paulo/SP - Tel:  (11) 4119-8466",
+  "sections": [
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
