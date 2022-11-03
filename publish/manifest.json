@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.61d66a821255e67d89432acc8798c1f1.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.0d25c9837bca15787f10316972814c93.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.9db9475ec099d319d7f33c82a4c33a5e.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.fde13789206f90d8cd1614722828eb55.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.5438a38dd9af1a58f24457ee36053f1d.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Capelli Autoclaves & Móveis Técnicos",
+  "short_name": "Capelli Autoclaves & Móveis Técnicos",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Compre Online na Capelli Autoclaves & Móveis Técnicos. As Melhores Marcas, Condições de Pagamentos e Prazos. Para seu negócio, clínicas veterinária, odontológica, estética e saúde em geral. Envio para todo Brasil. Estamos em São Paulo - Capital. ",
+  "background_color": "#ffffff",
+  "theme_color": "#231f20"
+}
