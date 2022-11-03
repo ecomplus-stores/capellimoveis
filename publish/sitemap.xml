@@ -2,48 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://capellimoveis.netlify.app/12-litros</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://capellimoveis.netlify.app/21-litros</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://capellimoveis.netlify.app/30-litros</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://capellimoveis.netlify.app/42-litros</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://capellimoveis.netlify.app/60-litros</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://capellimoveis.netlify.app/75-litros</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://capellimoveis.netlify.app/7-litros</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://capellimoveis.netlify.app/autoclave-horizontal-digital-gravitacional-normal-super-top-60-litros-ref-60-ast</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -200,6 +158,48 @@
     </url>
   
     <url>
+      <loc>https://capellimoveis.netlify.app/12-litros</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://capellimoveis.netlify.app/21-litros</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://capellimoveis.netlify.app/30-litros</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://capellimoveis.netlify.app/42-litros</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://capellimoveis.netlify.app/60-litros</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://capellimoveis.netlify.app/75-litros</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://capellimoveis.netlify.app/7-litros</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://capellimoveis.netlify.app/marca/stermax</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -236,13 +236,13 @@
     </url>
   
     <url>
-      <loc>https://capellimoveis.netlify.app/pages/trocas</loc>
+      <loc>https://capellimoveis.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://capellimoveis.netlify.app/pages/entrega</loc>
+      <loc>https://capellimoveis.netlify.app/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
